@@ -1,0 +1,7 @@
+[DEBUG] 12-09-2025 01:49:11 [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\Genesis QA\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+[INFO] 12-09-2025 01:49:12 [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Genesis QA\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+[INFO] 12-09-2025 01:49:12 [main] [<init>] - GuiDriver startedchrome
+[INFO] 12-09-2025 01:49:12 [main] [<init>] - Browser: CHROME
+[INFO] 12-09-2025 01:49:15 [main] [navigateTo] - Navigated to URL: https://automationexercise.com/

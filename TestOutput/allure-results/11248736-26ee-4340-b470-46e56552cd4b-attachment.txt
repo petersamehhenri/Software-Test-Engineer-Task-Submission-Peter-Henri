@@ -1,0 +1,25 @@
+[INFO] 05-06-2026 21:31:31 [main] [CleanTestOutputDirectories] - Old log file deleted: C:\Users\peter\Downloads\Automation-Testing-staging\Automation-Testing-staging\Automation FrameWork\TestOutput\logs\logs.log
+[INFO] 05-06-2026 21:31:31 [main] [onExecutionStart] - Directories are clean
+[WARN] 05-06-2026 21:31:31 [main] [copyHistory] - No history found in previous reports folder: C:\Users\peter\Downloads\Automation-Testing-staging\Automation-Testing-staging\Automation FrameWork\TestOutput\reports\history
+[INFO] 05-06-2026 21:31:31 [main] [onExecutionStart] - History folder copied
+[INFO] 05-06-2026 21:31:31 [main] [createDirectory] - Directory createdTestOutput/Screenshots/
+[INFO] 05-06-2026 21:31:31 [main] [createDirectory] - Directory createdTestOutput/recordings/
+[INFO] 05-06-2026 21:31:31 [main] [onExecutionStart] - Directories are created
+[INFO] 05-06-2026 21:31:31 [main] [onExecutionStart] - Properties are loaded
+[WARN] 05-06-2026 21:31:31 [main] [safeGet] - Property not found or empty: baseUrlWeb → using 'NOT_DEFINED'
+[INFO] 05-06-2026 21:31:32 [main] [setEnvironmentVariables] - Allure environment variables set: {OS=Windows 11, Java version=21.0.8+12-LTS-250, Browser=chrome, Execution Type=Local, URL=NOT_DEFINED}
+[INFO] 05-06-2026 21:31:36 [main] [downloadAndExtract] - Allure binaries already exist.
+[INFO] 05-06-2026 21:31:36 [main] [onExecutionStart] - Environment variables are loaded
+[INFO] 05-06-2026 21:31:36 [main] [<init>] - GuiDriver startedchrome
+[INFO] 05-06-2026 21:31:36 [main] [<init>] - Browser: CHROME
+[INFO] 05-06-2026 21:31:41 [main] [navigateTo] - Navigated to URL: https://demo.nopcommerce.com
+[INFO] 05-06-2026 21:31:41 [main] [beforeInvocation] - Test Case InValidLogin Started
+[INFO] 05-06-2026 21:31:42 [main] [navigateTo] - Navigated to URL: https://demo.nopcommerce.com/login
+[DEBUG] 05-06-2026 21:31:42 [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['LoginEmail']
+[INFO] 05-06-2026 21:32:02 [main] [lambda$type$2] - Typed By.xpath: //input[@id='Email']
+[DEBUG] 05-06-2026 21:32:02 [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['InvalidPass']
+[INFO] 05-06-2026 21:32:02 [main] [lambda$type$2] - Typed By.xpath: //input[@id='Password']
+[INFO] 05-06-2026 21:32:02 [main] [lambda$click$0] - Clicked By.xpath: //button[@class='button-1 login-button']
+[INFO] 05-06-2026 21:32:03 [main] [stopRecording] - No recording is in progress.
+[WARN] 05-06-2026 21:32:03 [main] [assertAll] - No assertions were made during the test.
+[INFO] 05-06-2026 21:32:03 [main] [captureFullScreenshot] - Screenshot captured
