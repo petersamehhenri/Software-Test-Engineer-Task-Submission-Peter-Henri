@@ -82,5 +82,3 @@ public class ProductsTest extends BaseTest {
         driver.quitDriver();
     }
 }
-
-//zbtt el locators f product page
